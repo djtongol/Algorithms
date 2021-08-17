@@ -1,2 +1,2 @@
 ## Algorithms
-*Alogirithms for coding using python
+* Alogirithms for coding using python
